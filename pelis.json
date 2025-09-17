@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Gladiator",
+    "rating": 5,
+    "tags": ["épica", "historia", "favorita"],
+    "director": "Ridley Scott",
+    "categoria": "Acción"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "rating": 4,
+    "tags": ["finanzas", "locura", "favorita"],
+    "director": "Martin Scorsese",
+    "categoria": "Comedia"
+  },
+  {
+    "title": "Dune: Part Two",
+    "rating": 5,
+    "tags": ["épica", "secuela", "favorita"],
+    "director": "Denis Villeneuve",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": 5,
+    "tags": ["culto", "violencia", "favorita"],
+    "director": "Quentin Tarantino",
+    "categoria": "Crimen"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "rating": 4,
+    "tags": ["familia", "clásico", "aliens"],
+    "director": "Steven Spielberg",
+    "categoria": "Aventura"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "rating": 4,
+    "tags": ["cyberpunk", "secuela"],
+    "director": "Denis Villeneuve",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "rating": 4,
+    "tags": ["secuela", "fantasía"],
+    "director": "James Cameron",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "rating": 4,
+    "tags": ["batman", "final", "nueva"],
+    "director": "Christopher Nolan",
+    "categoria": "Acción"
+  },
+  {
+    "title": "The Irishman",
+    "rating": 4,
+    "tags": ["mafia", "nueva"],
+    "director": "Martin Scorsese",
+    "categoria": "Crimen"
+  },
+  {
+    "title": "Goodfellas",
+    "rating": 5,
+    "tags": ["mafia", "favorita"],
+    "director": "Martin Scorsese",
+    "categoria": "Crimen"
+  },
+  {
+    "title": "Blade Runner",
+    "rating": 5,
+    "tags": ["cyberpunk", "clásico", "oscura"],
+    "director": "Ridley Scott",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Jurassic Park",
+    "rating": 5,
+    "tags": ["dinosaurios", "favorita", "clásico"],
+    "director": "Steven Spielberg",
+    "categoria": "Aventura"
+  },
+  {
+    "title": "Taxi Driver",
+    "rating": 5,
+    "tags": ["psicológica", "clásico"],
+    "director": "Martin Scorsese",
+    "categoria": "Drama"
+  },
+  {
+    "title": "Dune",
+    "rating": 5,
+    "tags": ["épica", "nueva", "saga"],
+    "director": "Denis Villeneuve",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Oppenheimer",
+    "rating": 5,
+    "tags": ["historia", "favorita", "drama"],
+    "director": "Christopher Nolan",
+    "categoria": "Drama"
+  },
+  {
+    "title": "Schindler's List",
+    "rating": 5,
+    "tags": ["historia", "drama", "favorita"],
+    "director": "Steven Spielberg",
+    "categoria": "Drama"
+  },
+  {
+    "title": "Inception",
+    "rating": 5,
+    "tags": ["sueños", "ciencia ficción", "favorita"],
+    "director": "Christopher Nolan",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "rating": 5,
+    "tags": ["robots", "acción", "clásico"],
+    "director": "James Cameron",
+    "categoria": "Acción"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "rating": 5,
+    "tags": ["guerra", "favorita", "historia"],
+    "director": "Steven Spielberg",
+    "categoria": "Drama"
+  },
+  {
+    "title": "Kill Bill Vol. 1",
+    "rating": 4,
+    "tags": ["acción", "samurai", "nueva"],
+    "director": "Quentin Tarantino",
+    "categoria": "Acción"
+  },
+  {
+    "title": "Titanic",
+    "rating": 5,
+    "tags": ["romance", "historia", "favorita"],
+    "director": "James Cameron",
+    "categoria": "Drama"
+  },
+  {
+    "title": "Arrival",
+    "rating": 5,
+    "tags": ["aliens", "emocional", "favorita"],
+    "director": "Denis Villeneuve",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Kill Bill Vol. 2",
+    "rating": 4,
+    "tags": ["acción", "secuela"],
+    "director": "Quentin Tarantino",
+    "categoria": "Acción"
+  },
+  {
+    "title": "Tenet",
+    "rating": 3,
+    "tags": ["tiempo", "confusa"],
+    "director": "Christopher Nolan",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Alien",
+    "rating": 5,
+    "tags": ["terror", "espacio", "clásico"],
+    "director": "Ridley Scott",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "Avatar",
+    "rating": 4,
+    "tags": ["3D", "ciencia ficción", "nueva"],
+    "director": "James Cameron",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "rating": 5,
+    "tags": ["batman", "héroes", "favorita"],
+    "director": "Christopher Nolan",
+    "categoria": "Acción"
+  },
+  {
+    "title": "Interstellar",
+    "rating": 5,
+    "tags": ["espacio", "favorita", "emocional"],
+    "director": "Christopher Nolan",
+    "categoria": "Sci-Fi"
+  },
+  {
+    "title": "The Godfather Part II",
+    "rating": 5,
+    "tags": ["mafia", "secuela"],
+    "director": "Francis Ford Coppola",
+    "categoria": "Drama"
+  },
+  {
+    "title": "The Godfather",
+    "rating": 5,
+    "tags": ["mafia", "clásico", "favorita"],
+    "director": "Francis Ford Coppola",
+    "categoria": "Drama"
+  }
+]
